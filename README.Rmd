@@ -33,12 +33,6 @@ devtools::install_github("jpflores-13/ussie2")
 ## Example
 
 This is a basic example which shows you how to solve a common problem:
-
-```{r example}
-library(ussie2)
-## basic example code
-```
-
 ```{r example}
 library(ussie)
 uss_make_matches(engsoccerdata::italy, "Italy")
