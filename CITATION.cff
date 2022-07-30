@@ -2,12 +2,12 @@
 # CITATION file created with {cffr} R package, v0.2.2
 # See also: https://docs.ropensci.org/cffr/
 # -----------------------------------------------------------
- 
+
 cff-version: 1.2.0
-message: 'To cite package "ussie2" in publications use:'
+message: 'To cite package "ussie" in publications use:'
 type: software
 license: MIT
-title: 'ussie2: Tools for publicly available football data'
+title: 'ussie: Tools for publicly available football data'
 version: 0.0.0.9000
 abstract: 'This is the second version of the `ussie` package that was demo''d at the
   Building Tidy Tools workshop at #rstudioconf2022.'
@@ -18,7 +18,7 @@ authors:
   orcid: https://orcid.org/0000-0001-5619-8990
 preferred-citation:
   type: manual
-  title: 'ussie2: Tools for publicly available football data'
+  title: 'ussie: Tools for publicly available football data'
   authors:
   - family-names: Flores
     given-names: JP
@@ -27,8 +27,8 @@ preferred-citation:
   version: 0.0.0.9000
   abstract: 'This is the second version of the `ussie` package that was demo''d at
     the Building Tidy Tools workshop at #rstudioconf2022.'
-  repository-code: https://github.com/jpflores-13/ussie2
-  url: https://github.com/jpflores-13/ussie2
+  repository-code: https://github.com/jpflores-13/ussie
+  url: https://github.com/jpflores-13/ussie
   contact:
   - family-names: Flores
     given-names: JP
@@ -36,8 +36,8 @@ preferred-citation:
     orcid: https://orcid.org/0000-0001-5619-8990
   license: MIT
   year: '2022'
-repository-code: https://github.com/jpflores-13/ussie2
-url: https://github.com/jpflores-13/ussie2
+repository-code: https://github.com/jpflores-13/ussie
+url: https://github.com/jpflores-13/ussie
 contact:
 - family-names: Flores
   given-names: JP

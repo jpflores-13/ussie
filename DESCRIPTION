@@ -1,4 +1,4 @@
-Package: ussie2
+Package: ussie
 Title: Tools for publicly available football data
 Version: 0.0.0.9000
 Authors@R: 
@@ -9,11 +9,12 @@ License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.1
-URL: https://github.com/jpflores-13/ussie2,
-    https://jpflores-13.github.io/ussie2/
-BugReports: https://github.com/jpflores-13/ussie2/issues
+URL: https://github.com/jpflores-13/ussie,
+    https://jpflores-13.github.io/ussie/
+BugReports: https://github.com/jpflores-13/ussie/issues
 Imports: 
     dplyr,
+    rlang,
     tibble
 Suggests: 
     engsoccerdata,

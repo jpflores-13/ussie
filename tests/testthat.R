@@ -7,6 +7,6 @@
 # * https://testthat.r-lib.org/reference/test_package.html#special-files
 
 library(testthat)
-library(ussie2)
+library(ussie)
 
-test_check("ussie2")
+test_check("ussie")
