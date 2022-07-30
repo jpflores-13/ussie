@@ -13,7 +13,7 @@ knitr::opts_chunk$set(
 )
 ```
 
-# ussie2
+# ussie
 
 <!-- badges: start -->
 [![R-CMD-check](https://github.com/jpflores-13/ussie/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/jpflores-13/ussie/actions/workflows/R-CMD-check.yaml)
