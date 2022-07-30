@@ -11,3 +11,8 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.1
 URL: https://github.com/jpflores-13/ussie2
 BugReports: https://github.com/jpflores-13/ussie2/issues
+Imports: 
+    dplyr,
+    tibble
+Suggests: 
+    engsoccerdata

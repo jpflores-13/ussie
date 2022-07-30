@@ -1,0 +1,87 @@
+# -----------------------------------------------------------
+# CITATION file created with {cffr} R package, v0.2.2
+# See also: https://docs.ropensci.org/cffr/
+# -----------------------------------------------------------
+ 
+cff-version: 1.2.0
+message: 'To cite package "ussie2" in publications use:'
+type: software
+license: MIT
+title: 'ussie2: Tools for publicly available football data'
+version: 0.0.0.9000
+abstract: 'This is the second version of the `ussie` package that was demo''d at the
+  Building Tidy Tools workshop at #rstudioconf2022.'
+authors:
+- family-names: Flores
+  given-names: JP
+  email: jpflores013@gmail.com
+  orcid: https://orcid.org/0000-0001-5619-8990
+preferred-citation:
+  type: manual
+  title: 'ussie2: Tools for publicly available football data'
+  authors:
+  - family-names: Flores
+    given-names: JP
+    email: jpflores013@gmail.com
+    orcid: https://orcid.org/0000-0001-5619-8990
+  version: 0.0.0.9000
+  abstract: 'This is the second version of the `ussie` package that was demo''d at
+    the Building Tidy Tools workshop at #rstudioconf2022.'
+  repository-code: https://github.com/jpflores-13/ussie2
+  url: https://github.com/jpflores-13/ussie2
+  contact:
+  - family-names: Flores
+    given-names: JP
+    email: jpflores013@gmail.com
+    orcid: https://orcid.org/0000-0001-5619-8990
+  license: MIT
+  year: '2022'
+repository-code: https://github.com/jpflores-13/ussie2
+url: https://github.com/jpflores-13/ussie2
+contact:
+- family-names: Flores
+  given-names: JP
+  email: jpflores013@gmail.com
+  orcid: https://orcid.org/0000-0001-5619-8990
+references:
+- type: software
+  title: dplyr
+  abstract: 'dplyr: A Grammar of Data Manipulation'
+  notes: Imports
+  authors:
+  - family-names: Wickham
+    given-names: Hadley
+    email: hadley@rstudio.com
+    orcid: https://orcid.org/0000-0003-4757-117X
+  - family-names: François
+    given-names: Romain
+    orcid: https://orcid.org/0000-0002-2444-4226
+  - family-names: Henry
+    given-names: Lionel
+  - family-names: Müller
+    given-names: Kirill
+    orcid: https://orcid.org/0000-0002-1416-3412
+  year: '2022'
+  url: https://CRAN.R-project.org/package=dplyr
+- type: software
+  title: tibble
+  abstract: 'tibble: Simple Data Frames'
+  notes: Imports
+  authors:
+  - family-names: Müller
+    given-names: Kirill
+    email: krlmlr+r@mailbox.org
+  - family-names: Wickham
+    given-names: Hadley
+    email: hadley@rstudio.com
+  year: '2022'
+  url: https://CRAN.R-project.org/package=tibble
+- type: software
+  title: engsoccerdata
+  abstract: 'engsoccerdata: English and European Soccer Results 1871-2016'
+  notes: Suggests
+  authors:
+  - family-names: Curley
+    given-names: James
+  year: '2022'
+  url: https://CRAN.R-project.org/package=engsoccerdata
