@@ -7,6 +7,7 @@
 
 [![R-CMD-check](https://github.com/jpflores-13/ussie/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/jpflores-13/ussie/actions/workflows/R-CMD-check.yaml)
 [![test-coverage](https://github.com/jpflores-13/ussie/actions/workflows/test-coverage.yaml/badge.svg)](https://github.com/jpflores-13/ussie/actions/workflows/test-coverage.yaml)
+[![R-CMD-check](https://github.com/jpflores-13/ussie2/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/jpflores-13/ussie2/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of ussie is to …
